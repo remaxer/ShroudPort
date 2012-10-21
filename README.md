@@ -8,11 +8,11 @@
 
 ## Build
 
-$ cd src
-$ gcc -o shroudport shroudport.c -lpcap
+	$ cd src
+	$ gcc -o shroudport shroudport.c -lpcap
 
 ## Run
 
-$ ./shroudport <IP to shroud> [existing ports...] 
+	$ ./shroudport <IP to shroud> [existing ports...] 
 
 
